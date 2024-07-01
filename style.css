@@ -3,15 +3,7 @@
     padding: 0%;
     box-sizing: border-box
 }
-<style>
-h1{
-    text-align:center;
-    background-color: black;
-    color:white;
-    font-size: xx-large;
-    font-family:'Gill Sans';
-}
-</style>
+
 html,body{
     height: 100%;
     width: 100%;
