@@ -3,6 +3,13 @@
     padding: 0%;
     box-sizing: border-box
 }
+h1{
+    text-align:center;
+    background-color: black;
+    color:white;
+    font-size: xx-large;
+    font-family:'Gill Sans';
+}
 html,body{
     height: 100%;
     width: 100%;
